@@ -4,15 +4,15 @@
       "NAMA":"OLSHOPBABY",
       "OWNER":"JOKO",
       "PRODUK":[{
-        "DIAPERS":[{
+          "NAMA_PRODUK":"DIAPERS",
           "STOK":"3",
           "HARGA":"30000"
-        }],
-        "SUSU":[{
+        },{
+          "NAMA_PRODUK":"SUSU",
           "STOK":"5",
           "HARGA":"70000"
-        }],
-        "BAJU_BAYI":[{
+        },{
+          "NAMA_PRODUK":"BAJU_BAYI",
           "STOK":"1",
           "HARGA":"8000"
         }]

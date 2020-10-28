@@ -1,9 +1,9 @@
 {
-  "PEMIN":{
-    "TOKOA":{
+  "PEMIN":[{
+    "TOKOA":[{
       "NAMA":"OLSHOPBABY",
       "OWNER":"JOKO",
-      "PRODUK":{
+      "PRODUK":[{
         "DIAPERS":{
           "STOK":"3",
           "HARGA":"30000"
@@ -16,7 +16,7 @@
           "STOK":"1",
           "HARGA":"8000"
         }
-      }
-    }
-  }
+      }]
+    }]
+  }]
 }

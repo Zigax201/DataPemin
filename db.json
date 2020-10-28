@@ -17,5 +17,43 @@
           "HARGA":"8000"
         }]
       }]
+    },
+    "PEMIN_RENJI":{
+      "TOKOA":[{
+        "NAMA":"OLSHOPBABY",
+        "OWNER":"JOKO",
+        "PRODUK":[{
+            "NAMA_PRODUK":"DIAPERS",
+            "STOK":"5",
+            "HARGA":"20000"
+          },{
+            "NAMA_PRODUK":"SUSU",
+            "STOK":"6",
+            "HARGA":"50200"
+          },{
+            "NAMA_PRODUK":"BAJU_BAYI",
+            "STOK":"8",
+            "HARGA":"90000"
+          }]
+        }]
+    },
+    "PEMIN_BESAR":{
+      "TOKOA":[{
+        "NAMA":"OLSHOPBABY",
+        "OWNER":"JOKO",
+        "PRODUK":[{
+            "NAMA_PRODUK":"DIAPERS",
+            "STOK":"5",
+            "HARGA":"35000"
+          },{
+            "NAMA_PRODUK":"SUSU",
+            "STOK":"1",
+            "HARGA":"35000"
+          },{
+            "NAMA_PRODUK":"BAJU_BAYI",
+            "STOK":"4",
+            "HARGA":"80000"
+          }]
+        }]
     }
   }
